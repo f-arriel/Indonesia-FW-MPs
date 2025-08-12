@@ -44,4 +44,4 @@ Graduate School of Science, Nagoya City University, Japan; Faculty of Engineerin
 
 ---
 
-Thank you for using Indonesia-FW-MPs!
+Thank you for using Indonesia Freshwater Microplastics Predictor!
