@@ -1,4 +1,4 @@
-# Indonesia-FW-MPs: Tool to Predict Microplastics Abundance in Indonesia’s Freshwater Ecosystems
+# Indonesia-FW-MPs: Tool to Predict Microplastics (MPs) Abundance in Indonesia Freshwater Ecosystems
 
 This repository contains tools to predict microplastic (MPs) abundance in Indonesia’s freshwater ecosystems, combining spatial data processing and predictive modeling.
 
@@ -26,8 +26,8 @@ This repository contains tools to predict microplastic (MPs) abundance in Indone
 
 1. Open the Google Colaboratory notebook and input or upload sampling locations.  
 2. Download the processed `.csv` file from the notebook.  
-3. Run the R script locally or on your server with the `.rds` model file accessible.  
-4. View or export predictive maps and analysis results.
+3. Upload the `.csv` file to the online Shiny app (deployed version of the R script) for MPs prediction.  
+4. View, explore, and download predictive maps and analysis results directly from the web app.
 
 ---
 
